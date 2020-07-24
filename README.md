@@ -6,6 +6,12 @@ A Flutter app example implementing Network Service discovery(NSD).
 
 An App using Android NSD API using MethodChannels. IOS is not implemented(I dont have a Mac).
 
+## Screenshots
+![Home](https://i.ibb.co/Hhw54Cp/home.png)
+![Settings](https://i.ibb.co/mTzdyFX/settings.png)
+![Client](https://i.ibb.co/cxYN37R/client.png)
+![Host](https://i.ibb.co/tZRGBgn/host.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
